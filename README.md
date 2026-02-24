@@ -31,10 +31,10 @@ Welcome to the **Plantilla Tours 1** repository! Here, you'll find a selection o
 ## Features Comparison
 | Feature        | Classic  | Modern   | Adventure | Luxury   | Family   | Educational |
 |----------------|----------|----------|-----------|----------|----------|-------------|
-| Responsive      | Yes      | Yes      | Yes       | Yes      | Yes      | Yes         |
-| Customizable    | Low      | High     | Medium    | High     | Medium    | High        |
-| Suitable For    | Basic    | All      | Outdoor   | High-End | Group    | Learning    |
-| Price           | Free     | $29      | $49       | $99      | $19      | $29         |
+| Responsive      | Yes      | Yes      | Yes       | Yes      | Yes     | Yes         |
+| Customizable    | Low      | High     | Medium    | High     | Medium  | High        |
+| Suitable For    | Basic    | All      | Outdoor   | High-End | Group   | Learning    |
+| Price           | Free     | Free     | Free      | Free     | Free    | Free        |
 
 ## Customization Guide
 1. **Download the Template:** Clone this repository or download the ZIP file.
