@@ -10,23 +10,23 @@ Welcome to the **Plantilla Tours 1** repository! Here, you'll find a selection o
 
 ### 2. Modern Tour
 - **Description:** A sleek, minimalistic design perfect for contemporary projects.
-- **Live Demo:** [Modern Tour Demo](https://example.com/modern-tour)
+- **Live Demo:** [Modern Tour Demo](https://cesarmdz.github.io/tailwind-landing-templates/ejemplo2.html)
 
 ### 3. Adventure Tour
 - **Description:** Perfect for outdoor activities, featuring vibrant imagery.
-- **Live Demo:** [Adventure Tour Demo](https://example.com/adventure-tour)
+- **Live Demo:** [Adventure Tour Demo](https://cesarmdz.github.io/tailwind-landing-templates/ejemplo3.html)
 
 ### 4. Luxury Tour
 - **Description:** A premium look and feel, tailored for high-end experiences.
-- **Live Demo:** [Luxury Tour Demo](https://example.com/luxury-tour)
+- **Live Demo:** [Luxury Tour Demo](https://cesarmdz.github.io/tailwind-landing-templates/plantilla5.html)
 
 ### 5. Family Tour
 - **Description:** A family-friendly template designed for group tours.
-- **Live Demo:** [Family Tour Demo](https://example.com/family-tour)
+- **Live Demo:** [Family Tour Demo](https://cesarmdz.github.io/tailwind-landing-templates/plantilla6.html)
 
 ### 6. Educational Tour
 - **Description:** Ideal for educational institutions or learning-based tours.
-- **Live Demo:** [Educational Tour Demo](https://example.com/educational-tour)
+- **Live Demo:** [Educational Tour Demo](https://cesarmdz.github.io/tailwind-landing-templates/otro.html)
 
 ## Features Comparison
 | Feature        | Classic  | Modern   | Adventure | Luxury   | Family   | Educational |
