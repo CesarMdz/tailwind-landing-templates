@@ -1,33 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tour Index</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+    <title>Plantilla Tours</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.3/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .gradient-bg {
+            background: linear-gradient(to right, #4a90e2, #50e3c2);
+        }
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+    </style>
 </head>
-<body>
-    <header>
-        <h1>Welcome to Our Tours</h1>
-        <nav>
-            <ul>
-                <li><a href="tour1.html">Tour 1</a></li>
-                <li><a href="tour2.html">Tour 2</a></li>
-                <li><a href="tour3.html">Tour 3</a></li>
-                <li><a href="tour4.html">Tour 4</a></li>
-                <li><a href="tour5.html">Tour 5</a></li>
-                <li><a href="tour6.html">Tour 6</a></li>
+<body class="gradient-bg fade-in">
+    <header class="text-center py-10">
+        <h1 class="text-4xl text-white font-bold">Bienvenido a Plantilla Tours</h1>
+        <nav class="mt-5">
+            <ul class="flex justify-center space-x-6">
+                <li><a href="ejemplo.html" class="text-white hover:underline">Ejemplo</a></li>
+                <li><a href="ejemplo2.html" class="text-white hover:underline">Ejemplo 2</a></li>
+                <li><a href="ejemplo3.html" class="text-white hover:underline">Ejemplo 3</a></li>
+                <li><a href="otro.html" class="text-white hover:underline">Otro</a></li>
+                <li><a href="plantilla5.html" class="text-white hover:underline">Plantilla 5</a></li>
+                <li><a href="plantilla6.html" class="text-white hover:underline">Plantilla 6</a></li>
             </ul>
         </nav>
     </header>
-    <main>
-        <section>
-            <h2>Explore Our Tours</h2>
-            <p>Discover amazing places with our guided tours designed just for you!</p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2026 Our Tours Company</p>
-    </footer>
 </body>
 </html>
