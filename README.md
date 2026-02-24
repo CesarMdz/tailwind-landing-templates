@@ -6,7 +6,7 @@ Welcome to the **Plantilla Tours 1** repository! Here, you'll find a selection o
 
 ### 1. Classic Tour
 - **Description:** A traditional layout suitable for basic tours.
-- **Live Demo:** [Classic Tour Demo](https://example.com/classic-tour)
+- **Live Demo:** [Classic Tour Demo]([https://example.com/classic-tour](https://github.com/CesarMdz/tailwind-landing-templates/ejemplo.html))
 
 ### 2. Modern Tour
 - **Description:** A sleek, minimalistic design perfect for contemporary projects.
